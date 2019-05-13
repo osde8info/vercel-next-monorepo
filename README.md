@@ -365,7 +365,3 @@ Next, we will add a routes key, which will handle routing for our Monorepo; poin
 Visit our [documentation](https://zeit.co/docs/v2/deployments/configuration) for more information on the `now.json` configuration file.
 
 We are now ready to deploy the app.
-
-```
-now
-```
