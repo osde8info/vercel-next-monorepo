@@ -1,5 +1,5 @@
 {
-    "name": "monorepo",
+    "name": "zeit-now-monorepo",
     "version": 2,
     "builds": [
         { "src": "www/package.json", "use": "@now/next" },
